@@ -1,0 +1,8 @@
+{
+  "name": "Phantom Lock",
+  "description": "A dual-view security prototype featuring a deceptive 'Fake Shutdown' phone interface and a live tracking command center.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
